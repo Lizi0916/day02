@@ -1,5 +1,3 @@
-import sys, os
-sys.path.append(os.getcwd())
 import pytest
 
 class Test_sum:
